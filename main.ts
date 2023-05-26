@@ -7,7 +7,7 @@ input.onButtonPressed(Button.AB, function () {
 input.onButtonPressed(Button.B, function () {
     radio.sendNumber(25)
 })
-radio.setGroup(1)
+radio.setGroup(7)
 basic.forever(function () {
 	
 })
